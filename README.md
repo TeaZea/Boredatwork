@@ -1,5 +1,5 @@
 # Boredatwork
-Bored at work, trying to remember basic coding
+Bored at work, trying to remember basic HTML and CSS
 
 
 <style>
