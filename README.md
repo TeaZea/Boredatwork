@@ -2,30 +2,22 @@
 Bored at work, trying to remember basic HTML and CSS
 
 <style>
-
 	h2 {
 	color: blue;
 	}
-
 	.red-text {
 	color: red;
 	}
-
 	.gold-text {
 	color: gold;
 	}
-
 	h1 {
 	font-family: monospace;
 	color: green;
 	}
-
 	body {
 	background-color: pink;
 	}
-
-
-
 </style>
 
 
